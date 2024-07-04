@@ -2,7 +2,7 @@
 
 # Akasi Group Intranet
 
-Akasi Intranet est une plateforme de gestion internet des processus metiers d'AKASI GROUP.
+Akasi Intranet est une plateforme de gestion interne des processus metiers d'AKASI GROUP.
 
 **Pour accéder à la plateforme en ligne : [Akasi Group Intranet](https://intranet.akasigroup.net/)**
 
